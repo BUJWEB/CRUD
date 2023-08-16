@@ -23,7 +23,7 @@ CRUD에 대해서 고민하다 가장 활용이 잘 된 부분이 커뮤니티�
 3에서는 불특정 다수라 할 수 있는 2만큼의 인원이 아닌 한정되었지만 조금 더 본인이 원하는 사람들과 소통 할 수 있습니다. 좋은 정보 공유 장소이자 더불어 오프라인에서 함께 산책하거나 단체 여행, 카페 등을 가는 등의 가능성을 생각해 손쉽게 활동 및 참여 할 수 있도록 디자인 하였습니다. 
 
 처음 화면은 반려동물에게 달아주는 이름표에서 따온 것으로<br>
-![](https://cdn.startupn.kr/news/photo/202012/9937_10865_5810.jpg)
+![](https://file.notion.so/f/s/1f4eb4f0-0a88-443d-b63d-c9a7c4e9e9ea/Untitled.png?id=1379aea3-6519-40e1-8411-4151c2b4cd14&table=block&spaceId=cf505bd8-fb77-41ca-8878-8d5d7050b8c7&expirationTimestamp=1692316800000&signature=U0p6gvHPjJ4L5htwPHDO7a9tQWMfVvSClLUHs41wQYw&downloadName=Untitled.png)
 
 
 ## 아쉬운점
